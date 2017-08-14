@@ -1,0 +1,1 @@
+{"root":{"data":{"id":"bf06iwy8amwc","created":1502699527807,"text":"中心主题"},"children":[{"data":{"id":"bf06iyayed4w","created":1502699530753,"text":"次级","note":"这里是次级的备注"},"children":[]},{"data":{"id":"bf06j13kiw8o","created":1502699536837,"text":"次级一","note":"这里是次级二的备注","priority":1},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.33"}
